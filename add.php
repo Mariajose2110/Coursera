@@ -37,7 +37,7 @@ else{
 <html>
 <head>
     <?php require_once "bootstrap.php"; ?>
-    <title>Ziang Cui 's Login Page</title>
+    <title>Mª José profile</title>
 </head>
 <body>
 <div class="container">
